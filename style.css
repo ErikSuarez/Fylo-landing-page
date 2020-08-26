@@ -49,6 +49,7 @@ nav {
 /* HERO INICIO */
 
 .hero-container {
+    margin-top: 110px;
     display: flex;
     align-items: center;
 }
@@ -90,6 +91,10 @@ nav {
     text-decoration: none;
     background: hsl(224, 93%, 58%);
     color: hsl(240, 75%, 98%);
+
+}
+.get-started a:hover {
+    box-shadow: 3px 3px 10px -2px rgba(0,0,0,0.5);
 }
 .img-hero-container {
     width: 82%;
