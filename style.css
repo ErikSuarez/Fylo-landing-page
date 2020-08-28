@@ -112,6 +112,7 @@ nav {
 .stay-productive {
     margin-top: 250px;
     padding-top: 100px;
+    padding-bottom: 50px;
     background-color: #f8f8fe;
     /* background-image: url('/images/bg-curve-desktop.svg'); */
     background-repeat: no-repeat;
@@ -197,3 +198,31 @@ margin-left: 10px;
     font-weight: 400;
 }
 /* STAY FIN */
+
+/* GET INICIO */
+
+.get {
+    background: hsl(238, 22%, 44%);
+    padding: 100px 0;
+}
+.get-container {
+    color: hsl(240, 75%, 98%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* GET FIN */
+
+/* FOOTER INICIO */
+
+.footer {
+    background: hsl(243, 87%, 12%);
+    color: hsl(240, 75%, 98%);
+    padding: 100px 0 50px 0;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* FOOTER FIN */
